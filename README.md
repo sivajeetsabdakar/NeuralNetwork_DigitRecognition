@@ -70,9 +70,9 @@ The model will train on the MNIST dataset, and you'll see the accuracy printed o
 The neural network achieves a 97% accuracy on the MNIST test set, making it capable of recognizing handwritten digits with high precision.
 
 # Next Steps
-Hyperparameter Tuning: Experiment with different architectures, learning rates, and activation functions to improve performance.
-Deep Learning: Extend this basic model to deeper networks with more hidden layers.
-Deployment: Explore options to deploy the model for real-time digit recognition using frameworks like Flask or TensorFlow.
+- Hyperparameter Tuning: Experiment with different architectures, learning rates, and activation functions to improve performance.
+- Deep Learning: Extend this basic model to deeper networks with more hidden layers.
+- Deployment: Explore options to deploy the model for real-time digit recognition using frameworks like Flask or TensorFlow.
 
 # Conclusion
 This project helped solidify my understanding of the core principles of neural networks. By building this simple model, I learned how data flows through a network, how backpropagation works, and how gradient descent is used to optimize the network’s weights. With 97% accuracy, this model demonstrates the potential of neural networks in image classification tasks.
