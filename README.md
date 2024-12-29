@@ -55,7 +55,7 @@ pip install numpy matplotlib
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/digit-recognition-neural-network.git
+git clone https://github.com/sivajeetsabdakar/digit-recognition-neural-network.git
 cd digit-recognition-neural-network
 ```
 Run the neural_network.py script to train the model and test its accuracy:
