@@ -1,7 +1,7 @@
 # Digit Recognition Neural Network
 
 ## Overview
-This project implements a simple neural network for recognizing handwritten digits (0-9) using the MNIST dataset. The network achieves **97% accuracy** by learning the patterns in the data through forward propagation, backpropagation, and gradient descent. The goal of this project is to demonstrate the basic concepts of neural networks and how they can be trained to make predictions based on labeled data.
+This project implements a **Feedforward Neural Network (FNN)**, which is a type of **Artificial Neural Network (ANN)** for recognizing handwritten digits (0-9) using the MNIST dataset. The network achieves **97% accuracy** by learning the patterns in the data through forward propagation, backpropagation, and gradient descent. The goal of this project is to demonstrate the basic concepts of neural networks and how they can be trained to make predictions based on labeled data.
 
 ## Concepts Covered
 This neural network is built around the foundational concepts of machine learning and neural networks:
