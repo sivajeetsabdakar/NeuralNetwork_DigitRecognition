@@ -61,7 +61,7 @@ cd digit-recognition-neural-network
 Run the neural_network.py script to train the model and test its accuracy:
 
 ```
-python neural_network.py
+python test.py
 ```
 
 The model will train on the MNIST dataset, and you'll see the accuracy printed out after each epoch.
